@@ -1,0 +1,4 @@
+Stimer
+======
+
+Simple reminder tool.
